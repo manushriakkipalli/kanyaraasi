@@ -1,0 +1,42 @@
+This project requires Autodesk Revit 2025 to be installed and licensed on the evaluation machine.
+
+1. Software Installation (Prerequisite)
+The reviewer must have Autodesk Revit 2025 installed on a 64-bit Windows operating system.
+
+-System Requirements Check (Minimum):
+
+-OS: 64-bit Windows 10 or 11.
+
+-CPU: Intel® or AMD® processor, 2.5 GHz or higher.
+
+-RAM: 16 GB minimum (32 GB recommended for large models).
+
+-Graphics: DirectX 11 capable graphics card with 4 GB VRAM.
+
+-Installation Steps (For Educational Access):
+
+-Go to the official Autodesk Education Community website (https://www.autodesk.com/in/products/revit/overview?term=1-YEAR&tab=subscription&mktvar002=afc_in_nmpi_ppc&AID=13084956&PID=8206971&gclsrc=aw.ds&&cjevent=CjwKCAiA0eTJBhBaEiwA-Pa-hQLSw6XCPIIFP8nLaYWzZUIRwky_OdWcEdYG7tcIyu5NVRmY_dlsMBoC6NwQAvD_BwE&click_id=CjwKCAiA0eTJBhBaEiwA-Pa-hQLSw6XCPIIFP8nLaYWzZUIRwky_OdWcEdYG7tcIyu5NVRmY_dlsMBoC6NwQAvD_BwE&gclid=CjwKCAiA0eTJBhBaEiwA-Pa-hQLSw6XCPIIFP8nLaYWzZUIRwky_OdWcEdYG7tcIyu5NVRmY_dlsMBoC6NwQAvD_BwE&gclsrc=aw.ds&gad_source=1&gad_campaignid=21850028362&gbraid=0AAAAADmwRu6Z8-Do1q30n7daYgR00R8Su).
+
+-Sign in with a verified student/educator account.
+
+-Select Revit and the 2025 version for download and installation.
+
+-Run the downloaded installer file and follow the on-screen prompts.
+
+-Ensure all necessary Content Libraries are installed.
+
+2. Running the Project (Opening the Model)
+
+-Launch Revit: Open the Autodesk Revit 2025 application.
+
+-Open the File:
+
+-On the Revit Home screen, go to the Models section and click Open.
+
+-Alternatively, click the File tab on the Ribbon, then Open > Project.
+
+-Select the Model: Navigate to the project directory: [Your Team Folder]/project/.
+
+-Select the main Revit Project File: [YourFileName].rvt (You must replace this placeholder with the exact name of your Revit file).
+
+-Click Open. The project model should now load successfully.
